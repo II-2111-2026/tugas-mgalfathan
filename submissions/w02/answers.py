@@ -4,6 +4,8 @@ Aturan pengisian:
 - Implementasikan fungsi q01()..q12() sesuai soal di weeks/w02/quiz.qmd
 - Jangan ubah nama fungsi.
 
+"Muhammad Ghiffary Alfathan - 18224084"
+
 Format jawaban:
 - T/F    -> bool  (True=Benar, False=Salah)
 - MC     -> str   ("A"/"B"/"C"/"D")
